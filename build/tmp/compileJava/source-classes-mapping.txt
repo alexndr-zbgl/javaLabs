@@ -1,0 +1,3 @@
+lab0/Variant1.java
+ lab0.Variant1
+ lab0.Variant1$DAY_OF_WEEK
